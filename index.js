@@ -15,7 +15,7 @@ function greet(stringTime){
   if(parseTime<12){
     return "Good Morning"
   }
-  if(parseTime<5 &&){
+  if(parseTime>12 && parseTime<17){
     return "Good Afternoon"
   }
 }
