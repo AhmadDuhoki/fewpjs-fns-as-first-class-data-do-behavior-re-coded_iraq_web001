@@ -23,3 +23,4 @@ function greet(stringTime){
   }
 }
 /* Write your implementation of displayMessage() */
+function 
