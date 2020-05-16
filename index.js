@@ -13,7 +13,7 @@ function greet(stringTime){
   const parseTime = parseInt(stringTime);
   
   if(parseTime<12){
-    
+    return ""
   }
 }
 /* Write your implementation of displayMessage() */
