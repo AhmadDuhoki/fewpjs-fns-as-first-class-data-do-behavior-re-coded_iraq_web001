@@ -10,6 +10,8 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 function greet(stringTime){
   const timeSplit = stringTime.split(':');
-  const parseTime = parseInt
+  const parseTime = parseInt(stringTime);
+  
+  if()
 }
 /* Write your implementation of displayMessage() */
