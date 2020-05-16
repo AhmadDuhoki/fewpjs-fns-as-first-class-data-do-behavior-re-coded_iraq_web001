@@ -12,6 +12,8 @@ function greet(stringTime){
   const timeSplit = stringTime.split(':');
   const parseTime = parseInt(stringTime);
   
-  if()
+  if(parseTime<12){
+    
+  }
 }
 /* Write your implementation of displayMessage() */
